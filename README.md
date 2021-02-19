@@ -62,7 +62,7 @@ body::before {
 <a href="20210219_003.JPG" data-lightbox="abc"><img src="20210219_003.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20210219_004.JPG" data-lightbox="abc"><img src="20210219_004.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20210219_005.JPG" data-lightbox="abc"><img src="20210219_005.JPG" alt="サンプル画像" width="450" /></a>
-<h3><span class="white">里村さん、ご結婚報告！</span></h3>
+<h3><span class="white">里村さん、NSXレンタカー＆ご結婚報告！</span></h3>
 <a href="20210219_006.JPG" data-lightbox="abc"><img src="20210219_006.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_007.JPG" data-lightbox="abc"><img src="20210219_007.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_008.JPG" data-lightbox="abc"><img src="20210219_008.JPG" alt="サンプル画像" width="900" /></a>
@@ -70,8 +70,8 @@ body::before {
 <a href="20210219_010.JPG" data-lightbox="abc"><img src="20210219_010.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20210219_011.JPG" data-lightbox="abc"><img src="20210219_011.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20210219_012.JPG" data-lightbox="abc"><img src="20210219_012.JPG" alt="サンプル画像" width="450" /></a>
+<h3><span class="white">加藤さんのフルCG画像＆サーキット走行の記録</span></h3>
 <a href="20210219_013.JPG" data-lightbox="abc"><img src="20210219_013.JPG" alt="サンプル画像" width="900" /></a>
-<h3><span class="white">加藤さんのフルCG画像とサーキット走行の記録</span></h3>
 <a href="20210219_014.JPG" data-lightbox="abc"><img src="20210219_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_015.JPG" data-lightbox="abc"><img src="20210219_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_016.JPG" data-lightbox="abc"><img src="20210219_016.JPG" alt="サンプル画像" width="900" /></a>
