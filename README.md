@@ -55,7 +55,7 @@ body::before {
 <body>
 <p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会@Teams</p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年2月19日(金)安否確認会の記録＠Teams !!!</marquee></span></h1>
-<div style="background-color:rgb(255,255,255,0.3);”>
+
 
 <a href="20210219_001.JPG" data-lightbox="abc"><img src="20210219_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_002.JPG" data-lightbox="abc"><img src="20210219_002.JPG" alt="サンプル画像" width="450" /></a>
