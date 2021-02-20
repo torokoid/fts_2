@@ -53,7 +53,7 @@ body::before {
  
 </head>
 <body>
-<p><a href="https://torokoid.github.io/fts_home">Home</a>>同窓会@Teams</p>
+<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>>Teams同窓会</p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2021年2月19日(金)安否確認会の記録＠Teams !!!</marquee></span></h1>
 
 
