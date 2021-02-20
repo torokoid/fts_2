@@ -75,7 +75,7 @@ body::before {
 <a href="20210219_014.JPG" data-lightbox="abc"><img src="20210219_014.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_015.JPG" data-lightbox="abc"><img src="20210219_015.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_016.JPG" data-lightbox="abc"><img src="20210219_016.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20210219_017.JPG" data-lightbox="abc"><img src="20210219_017.JPG" alt="サンプル画像" width="450" /></a>
+<a href="20210219_017.JPG" data-lightbox="abc"><img src="20210219_017.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_018.JPG" data-lightbox="abc"><img src="20210219_018.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20210219_019.JPG" data-lightbox="abc"><img src="20210219_019.JPG" alt="サンプル画像" width="450" /></a>
 <a href="20210219_020.JPG" data-lightbox="abc"><img src="20210219_020.JPG" alt="サンプル画像" width="450" /></a>
